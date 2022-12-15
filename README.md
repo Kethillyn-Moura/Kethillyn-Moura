@@ -1,4 +1,4 @@
-    ***Bem vindos ao meu GitHub***
+     **Bem vindos ao meu GitHub**
 * 👩🏽‍🎓 **Cursando Administração**
 * 💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
 <div align="center">
