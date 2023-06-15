@@ -1,6 +1,6 @@
 ##      Bem vindos ao meu GitHub 👋🏽
-* 👩🏽‍🎓 **Análise e Desenvolvimento de Sistemas**
-* 💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
+* 👩🏽‍🎓 **Graduanda em Análise e Desenvolvimento de Sistemas**
+* 💻 **Cursando Desenvolvimento Web no Programadores do Amanha**
 <div align="center">
   <a href="https://github.com/Kethillyn-Moura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kethillyn-Moura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
