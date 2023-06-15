@@ -1,5 +1,5 @@
 ##      Bem vindos ao meu GitHub 👋🏽
-* 👩🏽‍🎓 **Cursando Administração**
+* 👩🏽‍🎓 **Análise e Desenvolvimento de Sistemas**
 * 💻 **Estudando Desenvolvimento Web no Programadores do Amanha**
 <div align="center">
   <a href="https://github.com/Kethillyn-Moura">
